@@ -1,0 +1,27 @@
+var game__elements_8h =
+[
+    [ "Player", "struct_player.html", "struct_player" ],
+    [ "Tile", "struct_tile.html", "struct_tile" ],
+    [ "Grid", "struct_grid.html", "struct_grid" ],
+    [ "Cursor", "struct_cursor.html", "struct_cursor" ],
+    [ "bomb_position", "game__elements_8h.html#ae185a758d69e2b4afd2c711f8891d5ba", null ],
+    [ "clear_tile", "game__elements_8h.html#ae3c888c995a3fb690e646cf73d39f085", null ],
+    [ "clear_tile_side", "game__elements_8h.html#a14029f2592c80460fedae8afff5cb4e3", null ],
+    [ "deown_tile", "game__elements_8h.html#a96f1f0fd9dd5421693d9d40e46241ebd", null ],
+    [ "get_cursor_movable", "game__elements_8h.html#a33610067ce08bf9394a2eab7b311bb65", null ],
+    [ "get_cursor_player", "game__elements_8h.html#a326ef18f63cf64a2efb1d10d31205a9c", null ],
+    [ "get_cursor_position", "game__elements_8h.html#a9593eb51039b74d0775cc963a64509ad", null ],
+    [ "get_cursor_side", "game__elements_8h.html#a65c1fbc1be957c0c35809a01a2e777e5", null ],
+    [ "init_cursor", "game__elements_8h.html#aa29075b200d5ccf048edc9c80d8b73cc", null ],
+    [ "init_grid", "game__elements_8h.html#acaf6f19f45e7e26805ac5445226089ee", null ],
+    [ "init_player", "game__elements_8h.html#a41367cb43dbbb4de197dbe99260c6033", null ],
+    [ "init_tile", "game__elements_8h.html#a013dfc2c9b57693eb21ef3728f21b0cc", null ],
+    [ "own_tile", "game__elements_8h.html#a3a89a6314d21fce983b285b9cde0ee31", null ],
+    [ "set_cursor_movable", "game__elements_8h.html#a3019976551dbf4f591abc03be7d2eafc", null ],
+    [ "set_cursor_player", "game__elements_8h.html#a1dd2a3f5c9362b3829d6cbb4ebf19eb2", null ],
+    [ "set_cursor_position", "game__elements_8h.html#a02ee4054c9e986d7ed955eefa8ccd64c", null ],
+    [ "set_cursor_side", "game__elements_8h.html#a2b6f14e75e884aedfdf331a2dd70be11", null ],
+    [ "set_tile_side", "game__elements_8h.html#ae39dc6be04fcb7ec5498290cec631747", null ],
+    [ "shift_column", "game__elements_8h.html#ab024eb90518b34fa6dfff8fa5c206af7", null ],
+    [ "shift_row", "game__elements_8h.html#a080b7c20540d165a20c6c187ae20f987", null ]
+];

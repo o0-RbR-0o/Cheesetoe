@@ -1,0 +1,80 @@
+<filepath="gridtile.png" id="gridtilegfx" colfmt=6 />
+<filepath="game_background.png" id="game_backgroundgfx" colfmt=6 />
+<filepath="cursor.png" id="cursor" colfmt=6 />
+<filepath="overlay.png" id="overlaygfx" colfmt=6 />
+<filepath="clouds.png" id="cloudsgfx" colfmt=6 />
+<filepath="overlay_l.png" id="overlaygfx_l" colfmt=6 />
+<filepath="overlay_r.png" id="overlaygfx_r" colfmt=6 />
+<filepath="overlay_b.png" id="overlaygfx_b" colfmt=6 />
+<filepath="overlay_t.png" id="overlaygfx_t" colfmt=6 />
+<filepath="tile_top.png" id="sidetile_t" colfmt=6 />
+<filepath="tile_right.png" id="sidetile_r" colfmt=6 />
+<filepath="tile_bottom.png" id="sidetile_b" colfmt=6 />
+<filepath="tile_left.png" id="sidetile_l" colfmt=6 />
+<filepath="owned_sign_p1.png" id="owned_gfx_p1" colfmt=6 />
+<filepath="owned_sign_p2.png" id="owned_gfx_p2" colfmt=6 />
+<filepath="paused_overlay.png" id="paused_overlay_gfx" colfmt=6 />
+<filepath="p1_boxed.png" id="p1_boxed_gfx" colfmt=6 />
+<filepath="p2_boxed.png" id="p2_boxed_gfx" colfmt=6 />
+<filepath="p3_boxed.png" id="p3_boxed_gfx" colfmt=6 />
+<filepath="p4_boxed.png" id="p4_boxed_gfx" colfmt=6 />
+<filepath="fade_to_black.png" id="fadetoblack_gfx" colfmt=6 />
+<filepath="bomb_middle.png" id="bombmiddle_gfx" colfmt=6 />
+<filepath="bomb_top_m.png" id="bomb_top_m_gfx" colfmt=6 />
+<filepath="bomb_right_m.png" id="bomb_right_m_gfx" colfmt=6 />
+<filepath="bomb_bottom_m.png" id="bomb_bottom_m_gfx" colfmt=6 />
+<filepath="bomb_left_m.png" id="bomb_left_m_gfx" colfmt=6 />
+<filepath="bomb_top_e.png" id="bomb_top_e_gfx" colfmt=6 />
+<filepath="bomb_right_e.png" id="bomb_right_e_gfx" colfmt=6 />
+<filepath="bomb_bottom_e.png" id="bomb_bottom_e_gfx" colfmt=6 />
+<filepath="bomb_left_e.png" id="bomb_left_e_gfx" colfmt=6 />
+<filepath="title1.png" id="title_gfx" colfmt=6 />
+<filepath="title2.png" id="title_gfx2" colfmt=6 />
+<filepath="hud.png" id="hud_gfx" colfmt=6 />
+<filepath="numbers_0.png" id="numbers_0_gfx" colfmt=6 />
+<filepath="numbers_1.png" id="numbers_1_gfx" colfmt=6 />
+<filepath="numbers_2.png" id="numbers_2_gfx" colfmt=6 />
+<filepath="numbers_3.png" id="numbers_3_gfx" colfmt=6 />
+<filepath="numbers_4.png" id="numbers_4_gfx" colfmt=6 />
+<filepath="numbers_5.png" id="numbers_5_gfx" colfmt=6 />
+<filepath="numbers_6.png" id="numbers_6_gfx" colfmt=6 />
+<filepath="numbers_7.png" id="numbers_7_gfx" colfmt=6 />
+<filepath="numbers_8.png" id="numbers_8_gfx" colfmt=6 />
+<filepath="numbers_9.png" id="numbers_9_gfx" colfmt=6 />
+<filepath="icon_score.png" id="icon_score_gfx" colfmt=6 />
+<filepath="icon_bomb.png" id="icon_bomb_gfx" colfmt=6 />
+<filepath="icon_shift.png" id="icon_shift_gfx" colfmt=6 />
+<filepath="icon_bombstrength.png" id="icon_bombstrength_gfx" colfmt=6 />
+<filepath="icon_controller.png" id="icon_controller_gfx" colfmt=6 />
+<filepath="icon_x.png" id="icon_x_gfx" colfmt=6 />
+<filepath="icon_bot.png" id="icon_bot_gfx" colfmt=6 />
+<filepath="menucursor.png" id="menucursor_gfx" colfmt=6 />
+<filepath="menucursor2.png" id="menucursor2_gfx" colfmt=6 />
+
+<filepath="squarewave.png" id="squarewave_gfx" colfmt=6 />
+
+<filepath="dummygfx.png" id="dummygfx_gfx" colfmt=6 />
+
+<filepath="bignum_1.png" id="bignum_1_gfx" colfmt=6 />
+<filepath="bignum_2.png" id="bignum_2_gfx" colfmt=6 />
+<filepath="bignum_3.png" id="bignum_3_gfx" colfmt=6 />
+<filepath="bignum_4.png" id="bignum_4_gfx" colfmt=6 />
+
+<filepath="hs_plus.png" id="hs_plus_gfx" colfmt=6 />
+<filepath="hs_minus.png" id="hs_minus_gfx" colfmt=6 />
+<filepath="hs_multi.png" id="hs_multi_gfx" colfmt=6 />
+<filepath="hs_is.png" id="hs_is_gfx" colfmt=6 />
+
+<filepath="hs_p1.png" id="hs_p1_gfx" colfmt=6 />
+<filepath="hs_p2.png" id="hs_p2_gfx" colfmt=6 />
+<filepath="hs_p3.png" id="hs_p3_gfx" colfmt=6 />
+<filepath="hs_p4.png" id="hs_p4_gfx" colfmt=6 />
+
+<filepath="text_players.png" id="text_players_gfx" colfmt=6 />
+
+<filepath="menu_extrasconfig.png" id="menu_extrasconfig_gfx" colfmt=6 />
+
+<filepath="text_startwithpowerupspp.png" id="text_startwithpowerupspp_gfx" colfmt=6 />
+<filepath="text_startwithpowerupsog.png" id="text_startwithpowerupsog_gfx" colfmt=6 />
+
+
